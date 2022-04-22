@@ -8,3 +8,5 @@ function masterBranch() {
 function sideBranch() {
     return 'SideBranch';
 }
+
+console.log("On-site edit");
