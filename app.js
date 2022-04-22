@@ -8,3 +8,7 @@ function masterBranch() {
 function sideBranch() {
     return 'SideBranch';
 }
+
+function buttonPressed() {
+    return 'Du har klickat på knappen';
+}
