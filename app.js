@@ -1,6 +1,8 @@
 //Ny kommentar
 console.log("Hello World");
 
+console.log("On-site edit");
+
 function masterBranch() {
     return 'masterBranch';
 }
