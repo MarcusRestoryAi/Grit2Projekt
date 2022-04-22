@@ -4,3 +4,7 @@ console.log("Hello World");
 function masterBranch() {
     return 'masterBranch';
 }
+
+function sideBranch() {
+    return 'SideBranch';
+}
